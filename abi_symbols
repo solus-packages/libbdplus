@@ -1,0 +1,15 @@
+libbdplus.so.0:bdplus_event
+libbdplus.so.0:bdplus_fixup
+libbdplus.so.0:bdplus_free
+libbdplus.so.0:bdplus_get_code_date
+libbdplus.so.0:bdplus_get_code_gen
+libbdplus.so.0:bdplus_get_version
+libbdplus.so.0:bdplus_init
+libbdplus.so.0:bdplus_m2ts
+libbdplus.so.0:bdplus_m2ts_close
+libbdplus.so.0:bdplus_mmap
+libbdplus.so.0:bdplus_psr
+libbdplus.so.0:bdplus_seek
+libbdplus.so.0:bdplus_set_fopen
+libbdplus.so.0:bdplus_set_mk
+libbdplus.so.0:bdplus_start
